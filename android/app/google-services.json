@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "311312203906",
+    "project_id": "bookstore-cf8a5",
+    "storage_bucket": "bookstore-cf8a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311312203906:android:b522b2e29cde3dbc93f49b",
+        "android_client_info": {
+          "package_name": "com.example.book_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1toNh5jETcjBIz2NVEsCoSFGwc5U_hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311312203906:android:af6d114d321e5df493f49b",
+        "android_client_info": {
+          "package_name": "com.example.bookmngt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1toNh5jETcjBIz2NVEsCoSFGwc5U_hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311312203906:android:d2ccc2ef60045b4193f49b",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_rental_management_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1toNh5jETcjBIz2NVEsCoSFGwc5U_hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
